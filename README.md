@@ -19,7 +19,11 @@ Library and API USED:
 1. FB API
 2. MP Android Chart 
 
+#Bar Chart - PERT TIME Analysis
+![alt text] (https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/bar.jpg)
 
+#Pie Chart - Revenue Visualization
+https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/pie.png
 
 
 
