@@ -16,8 +16,8 @@ Product Characteristics and Requirements:
 8.	Project Manager: This feature will allow the users to create and provide the details of the project. The details such as individuals and time factors become crucial for graph building. 
 
 Library and API USED:
-1. FB API
-2. MP Android Chart 
+1. FB API [Thanks to Facebook]
+2. MP Android Chart [Thanks to Developer Philip]
 
 #Bar Chart - PERT TIME Analysis
 ![alt text](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/bar.jpg)
