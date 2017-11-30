@@ -20,10 +20,10 @@ Library and API USED:
 2. MP Android Chart 
 
 #Bar Chart - PERT TIME Analysis
-![alt text] (https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/bar.jpg)
+![alt text](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/bar.jpg)
 
 #Pie Chart - Revenue Visualization
-https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/pie.png
+![alt text](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/pie.png)
 
 
 
