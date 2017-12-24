@@ -1,5 +1,5 @@
 # MobileProjectManagement                                                                                           
-<img align="right" height="90px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/mpm.png">
+<img align="right" height="90px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/UI/mpm.png">
 
 ### Project Objective: 
 
@@ -27,11 +27,11 @@ The idea of the project is to bring Project Management to Mobile. Project Manage
     2. MP Android Chart [Thanks to Developer Philip]
 
 #### Revenue Visualization
-<img height="300px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/PieChart.png">
+<img height="300px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/UI/PieChart.png">
 
 
 #### PERT Visualization
-<img height="300px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/BarGraph.png">
+<img height="300px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/UI/BarGraph.png">
 
 
 
