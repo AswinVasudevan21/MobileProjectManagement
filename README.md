@@ -1,6 +1,6 @@
 [![LICENSE](http://img.shields.io/:license-apache-brightgreen.svg)](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/Docs/README.doc)
-
+[![Local build](https://img.shields.io/badge/Local-pass-green.svg)]()
 # Mobile Project Management                                                                                           
 <img align="right" height="90px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/UI/mpm.png">
 
