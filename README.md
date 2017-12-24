@@ -21,16 +21,18 @@ The idea of the project is to bring Project Management to Mobile. Project Manage
   4.  Privacy         :   It is a client side app. It does not look or take any data from the user. 
 
 
-#### Library and API USED:
+#### API USED:
  
     1. FB API [Thanks to Facebook]
     2. MP Android Chart [Thanks to Developer Philip]
 
-#### Bar Chart - PERT TIME Analysis
-<img align="left" height="300px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/BarGraph.png">
+#### Revenue Visualization
+![alt tag](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/BarGraph.png)
 
-#### Pie Chart - Revenue Visualization
-<img align="left" height="300px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/PieChart.png">
+
+#### PERT Visualization
+![alt tag](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/PieChart.png)
+
 
 
 
