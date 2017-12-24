@@ -27,11 +27,12 @@ The idea of the project is to bring Project Management to Mobile. Project Manage
     2. MP Android Chart [Thanks to Developer Philip]
 
 #### Revenue Visualization
-![alt tag](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/BarGraph.png)
+<img width="300" height="300" src="github.com/AswinVasudevan21/MobileProjectManagement/blob/master/BarGraph.png">
 
 
 #### PERT Visualization
-![alt tag](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/PieChart.png)
+<img  width="300" height="300" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/PieChart.png">
+
 
 
 
