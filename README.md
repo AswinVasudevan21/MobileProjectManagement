@@ -1,4 +1,4 @@
-# MobileProjectManagement                                                                                           
+# Mobile Project Management                                                                                           
 <img align="right" height="90px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/UI/mpm.png">
 
 ### Project Objective: 
