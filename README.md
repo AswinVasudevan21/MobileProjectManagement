@@ -8,7 +8,7 @@ The idea of the project is to bring Project Management to Mobile. Project Manage
     1. Revenue   : App calculates the Revenue percentage per quater and visualizes them into Pie chart.
     2. PERT Time : App analyses the pert time for the project and visualize them into Bar graphs. 
     
-*Note: It is a on going project and we are looking to add more PM related functionalities. 
+*Note: It is an on going project and we are looking to add more PM related functionalities. 
   
 #### Product Characteristics:
 
