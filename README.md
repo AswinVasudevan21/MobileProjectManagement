@@ -1,29 +1,37 @@
-# MobileProjectManagement                                                                                           ![alt text](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/mpm.png)
+# MobileProjectManagement                                                                                           
+<img align="right" height="90px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/mpm.png">
 
-Project Objective: 
+### Project Objective: 
 
-The goal of the project is to develop an Android based mobile application for project management. The tool will aid towards planning and execution of the project where we can track its progress. The tasks can be visualized in a graphical manner to provide vivid understanding of the project flow.
+The idea of the project is to bring Project Management to Mobile. Project Management tools are traditionally PC - Based! With the growing trends in Mobile apps replacing the PC application, we wanted try out this project. The application provides mobile based visualization for the following components:
 
-Product Characteristics and Requirements:
+    1. Revenue   : App calculates the Revenue percentage per quater and visualizes them into Pie chart.
+    2. PERT Time : App analyses the pert time for the project and visualize them into Bar graphs. 
+    
+*Note: It is a on going project and we are looking to add more PM related functionalities. 
+  
+#### Product Characteristics:
 
-1.	Tools: Android Studio is the IDE we are using to build the application and it’s a native app wherein the user view is designed in the Android UI. The storage for the project is maintained in app to provide ease of access and overcome privacy issues for sensitive projects. 
-2.	User submissions: Users can use their Fb to login to the application. They can create the tasks for the project and allocate time to it. Then based on time, they can visualize the project progress in graphical manner. 
-3.	Permissions: All the projects that are created in the app gives complete user permission for them to create and visualize the tasks. It is an open source project. 
-4.	Links: The external links are when the user uses their Fb to login they are taken to their sites for authorization.
-5.	The “Graph View” feature will be very user engaging wherein they can see their progress in one button click. The app also allows them to modify the time and details of the project and again visualize the updated metrics. 
-6.	Security: The app will adhere to all the security standards that are built in from the android environment. The login page will also be encryption protected since they are taken to standard logins such as Fb or Gmail.
-7.	Project Manager: This feature will allow the users to create and provide the details of the project. The details such as individuals and time factors become crucial for graph building. 
+  1.	Tools           :   It is a native app wherein all the developement is carried out using Android Studio IDE.     
+ 
+  2.	User submissions:   Users can use their Facebook account to login to the application.
 
-Library and API USED:
-1. FB API [Thanks to Facebook]
-2. MP Android Chart [Thanks to Developer Philip]
+  3.	Permissions     :   App requires a stable internet connection for fb login but can also be used offline for visualization. 
 
-#Bar Chart - PERT TIME Analysis
-![alt text](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/bar.jpg)
+  4.  Privacy         :   It is a client side app. It does not look or take any data from the user. 
 
-#Pie Chart - Revenue Visualization
 
-![alt text](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/pie.png)
+#### Library and API USED:
+ 
+    1. FB API [Thanks to Facebook]
+    2. MP Android Chart [Thanks to Developer Philip]
+
+#### Bar Chart - PERT TIME Analysis
+<img align="left" height="300px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/BarGraph.png">
+
+#### Pie Chart - Revenue Visualization
+<img align="left" height="300px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/PieChart.png">
+
 
 
 
