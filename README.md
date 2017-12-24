@@ -1,8 +1,8 @@
 [![LICENSE](http://img.shields.io/:license-apache-brightgreen.svg)](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/badge/Version-v1.0.1-blue.svg)](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/Docs/README.doc)
  [![API](https://img.shields.io/badge/API-8%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=8)
+ <img align="right" height="90px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/UI/mpm.png">
 # Mobile Project Management                                                                                           
-<img align="right" height="90px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/UI/mpm.png">
 
 ### Project Objective: 
 
