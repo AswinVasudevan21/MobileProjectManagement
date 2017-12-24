@@ -1,6 +1,7 @@
 # Mobile Project Management                                                                                           
 <img align="right" height="90px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/UI/mpm.png">
-[![License](http://img.shields.io/:license-apache-brightgreen.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+[![License](http://img.shields.io/:license-apache-brightgreen.svg)](https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/LICENSE)
+
 ### Project Objective: 
 
 The idea of the project is to bring Project Management to Mobile. Project Management tools are traditionally PC - Based! With the growing trends in Mobile apps replacing the PC application, we wanted try out this project. The application provides mobile based visualization for the following components:
