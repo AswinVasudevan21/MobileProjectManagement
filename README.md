@@ -3,7 +3,7 @@
  [![API](https://img.shields.io/badge/API-8%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=8)
  <img align="right" height="90px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/UI/mpm.png">
 # Mobile Project Management                                                                                           
-
+A light weight simple client side application for project management based visualization in Android mobiles. 
 ### Project Objective: 
 
 The idea of the project is to bring Project Management to Mobile. Project Management tools are traditionally PC - Based! With the growing trends in Mobile apps replacing the PC application, we wanted try out this project. The application provides mobile based visualization for the following components:
@@ -35,6 +35,14 @@ The idea of the project is to bring Project Management to Mobile. Project Manage
 
 #### PERT Visualization
 <img height="300px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/UI/BarGraph.png">
+
+#### Future Work:
+We are working towards adding more PM funtionalities such as:
+
+     1. Work Breakdown Structure 
+     2. Cost Estimation 
+     3. Gantt Chart 
+     
 
 
 
