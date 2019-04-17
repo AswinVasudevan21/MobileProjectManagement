@@ -15,12 +15,9 @@ The idea of the project is to bring Project Management to Mobile. Project Manage
   
 #### Product Characteristics:
 
-  1.	Tools           :   It is a native app wherein all the developement is carried out using Android Studio IDE.     
- 
+  1.	Tools           :   It is a native app wherein all the developement is carried out using Android Studio IDE.      
   2.	User submissions:   Users can use their Facebook account to login to the application.
-
   3.	Permissions     :   App requires a stable internet connection for fb login but can also be used offline for visualization. 
-
   4.  Privacy         :   It is a client side app. It does not look or take any data from the user. 
 
 
@@ -32,7 +29,6 @@ The idea of the project is to bring Project Management to Mobile. Project Manage
 #### Revenue Visualization
 <img height="300px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/UI/PieChart.png">
 
-
 #### PERT Visualization
 <img height="300px" src="https://github.com/AswinVasudevan21/MobileProjectManagement/blob/master/UI/BarGraph.png">
 
@@ -43,8 +39,3 @@ We are working towards adding more PM funtionalities such as:
      2. Cost Estimation 
      3. Gantt Chart 
      
-
-
-
-
-
